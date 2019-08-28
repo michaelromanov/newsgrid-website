@@ -24,3 +24,7 @@ body {
   background: var(--light-color);
 }
 
+a {
+  color: #333;
+  text-decoration: none;
+}
